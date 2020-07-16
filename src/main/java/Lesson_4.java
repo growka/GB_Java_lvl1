@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-    class Lesson_3 {
+    class Lesson_4 {
 
         public static void main(String[] args) {
 
